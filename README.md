@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple calculator web application built using HTML, CSS, and JavaScript. It provides basic arithmetic operations, making it a handy tool for quick calculations.
+This simple calculator web application is built using HTML, CSS, and JavaScript. It provides basic arithmetic operations, making it a handy tool for quick calculations.
 
 ## Demo
 
